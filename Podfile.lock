@@ -1,3 +1,30 @@
-PODFILE CHECKSUM: 428d668e3a85c16a1228f9969426e30768e868cb
+PODS:
+  - JSONParserSwift (1.1.4)
+  - RxCocoa (6.0.0-rc.2):
+    - RxRelay (= 6.0.0-rc.2)
+    - RxSwift (= 6.0.0-rc.2)
+  - RxRelay (6.0.0-rc.2):
+    - RxSwift (= 6.0.0-rc.2)
+  - RxSwift (6.0.0-rc.2)
+
+DEPENDENCIES:
+  - JSONParserSwift
+  - RxCocoa (= 6.0.0-rc.2)
+  - RxSwift (= 6.0.0-rc.2)
+
+SPEC REPOS:
+  trunk:
+    - JSONParserSwift
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+
+SPEC CHECKSUMS:
+  JSONParserSwift: fff6c8aee929431cfbb10d016e9b92f06f732057
+  RxCocoa: 38445a25751be5907f52f7ea02c137f52ce2e7f2
+  RxRelay: b9e2483e83f46e4e7bf1234c6fe418e5c2eaf825
+  RxSwift: ada35be6643bedf6881cdbd6bbfb27aeea527670
+
+PODFILE CHECKSUM: 0b6afd2634ebbd8dc90ed5cd62cbc540234868d6
 
 COCOAPODS: 1.10.0
